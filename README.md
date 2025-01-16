@@ -9,4 +9,4 @@
 
 ##  Other
 
-→  [my portfolio](https://github.com/kyoshiblood/portfolio)
+→  [my portfolio](https://kyoshiblood.vercel.app/)
