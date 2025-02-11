@@ -9,4 +9,4 @@
 
 ##  Other
 
-→  [my portfolio](https://kyoshiblood.vercel.app/)
+→  [my blog](https://kyoshiscrawl.vercel.app/)
