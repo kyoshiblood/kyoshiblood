@@ -9,4 +9,4 @@
 
 ##  Other
 
-→  [my blog](https://kyoshiscrawl.vercel.app/)
+→  <a href="https://kyoshiscrawl.vercel.app/" target="_blank">my personal blog</a>
