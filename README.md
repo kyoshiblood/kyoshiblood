@@ -4,5 +4,5 @@
 
 ##  Other
 
-→  <a href="https://kyoshiscrawl.vercel.app" >my personal blog</a>
+→  <a href="https://kyoshiscrawl.vercel.app" >my personal blog</a><br/>
 →  <a href="https://kyoshiblood.vercel.app" >my personal portfolio</a>
